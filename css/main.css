@@ -1,0 +1,18 @@
+.header-image {
+    background-image: url('../images/ansel-adams-landscape.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    min-height: 400px;
+}
+
+.header-image h1,
+.header-image p,
+h2 {
+    color: #5cdb95;
+}
+
+.header-image .container-fluid {
+    background-color: rgba(0,0,0,0.5);
+}
