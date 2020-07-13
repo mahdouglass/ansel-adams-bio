@@ -16,3 +16,11 @@ h2 {
 .header-image .container-fluid {
     background-color: rgba(0,0,0,0.5);
 }
+
+.nav-link {
+    color: #8ee4af;
+}
+
+.nav-link:hover {
+    color: #5cdb95;
+}
